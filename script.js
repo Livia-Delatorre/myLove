@@ -2,9 +2,17 @@
     // ---------- months from jul 2025 to feb 2026 ----------
     const months = [
         {
-            name: "julho 2025",
+            name: "Nossa história",
             paragraphs: [
-                "Águas quentes de julho trazem memórias de verão, mas eu deslizo solitário sob a superfície. Dizem que tubarões não sentem saudade – mentira. Sinto falta da corrente fria que costumava beijar minhas guelras. Hoje vasculho restos de corais e encontro apenas conchas vazias. Mas o oceano é generoso: ontem um cardume de sardinhas dançou ao meu lado, prateado como luar líquido.",
+                "Meu amor por você não pode ser resumido apenas em palavras, mas aqui vai uma breve representação dos meus sentimentos.",
+                "Com amor, Lívia.",
+    
+            ]
+        },
+        {
+            name: "1° mês - julho 2025",
+            paragraphs: [
+                "31/07",
                 "Escrevo esta carta com dentes que nunca param de crescer. Cada palavra é uma nova fileira, afiada. Guardo segredos de naufrágios, mas não os conto a ninguém. Talvez um dia um mergulhador encontre esta garrafa – ou melhor, esta velha âncora enferrujada onde costumo arranhar recados.",
                 "Os golfinhos me chamam de 'sombra torta'. Gosto disso. Julho é longo, mas a lua cheia ilumina caminhos de plâncton. Amanhã sigo para o norte."
             ]
