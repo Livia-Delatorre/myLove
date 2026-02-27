@@ -69,6 +69,11 @@
             paragraphs: [
                 "09/12",
                 "Não sei nem como começar a descrever esse dia. A gente já havia falado sobre oficializar nossa relação (Você queria uma data performática), mas eu já imginava que a ansiedade ia falar mais alto. Foi nesse dia que nos encontramos na UFABC, fomos pegar um copão (Na chuva, como sempre), alguém trouxe banana desitrada (Sabendo que eu amo banana) e sentamos juntos naquela escada meio horrível, e você puxou a caixinha vermelha (Sem olhar pra mim) e fez o pedido. Fui a mulher mais feliz do mundo naquele dia.",
+                "13/12",
+                "Date oficial no Sukiya, como namoradinhos, e você experimentou minha cultura ai, disse que gostou pelo menos (Tenho um vídeo que eu gosto muito de você chacoalhando as batatas do sukiya) e servimos muito de aliança em sbc.Você veio em casa logo no dia seguinte e eu fiz penteados em você, tiramos fotinhos combinando com as duas bolinhas de cabelo, e eu te amava cada dia mais.",
+                "31/12",
+                "Ano novo com a minha familía e primeira vez que passava com alguém romanticamente. Fiquei muito ansiosa para te entregar o presente de Natal que não era nada conveniente, mas veio de coração (uma pelúcia de 1 metro de tubarão kk), e amei passar essa data tão especial com você, não poderia ter sido melhor. Fiquei muito feliz de ver você interagindo com a minha familía e a gente se beijando meia noite. Logo depois, passamos um tempo conversando de pijama, e também tive o privilégio de acordar com você (mesmo que não do meu lado)",
+                "Te ver recém acordado só me provou que você é a pessoa mais linda do universo de qualquer maneira (lip lip)"
             ]
         },
         {
