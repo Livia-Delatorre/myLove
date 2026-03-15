@@ -3,6 +3,7 @@
     const months = [
         {
             name: "Introdução",
+            image: "primeira.jpg",
             paragraphs: [
                 "Meu amor por você não pode ser resumido apenas em palavras, mas aqui vai uma breve representação dos meus sentimentos.",
                 "Com amor, Lívia.",
@@ -11,6 +12,7 @@
         },
         {
             name: "julho 2025",
+            image: "segunda.jpg",
             paragraphs: [
                 "31/07",
                 "Eu nunca fui alguém de acreditar em destino, até porque os caminhos são traçados de escolhas e não algo pré-determinado, mas, muitas coisas estão fora do nosso controle. Nesse dia, aconteceu algo fora do meu alcance, a luz caiu e o RU fechou mais cedo. Irônico como algo tão fútil e irrelevante pode levar a um efeito borboleta, pois naquele dia, essa queda de luz, me deu a ideia de ir conhecer um lugar novo, mas não foi só um espaço novo que eu conheci.",
@@ -20,6 +22,7 @@
         },
         {
             name: "agosto 2025",
+            image: "terceira.JPG",
             paragraphs: [
                 "11/08",
                 "Tudo mudou para mim esse dia, a gente já tinha tido poucas interações até então, mas logo que te vi, entrando no elefante branco, de blusa preta e tranças, o seu rostinho sério, algo mudou. Você encostou na parede ao lado do sofá, e disse que já viram escorpião saindo do sofá, sinceramente, eu estava tão hipnotizada com você que mal prestei atenção.",
@@ -31,6 +34,7 @@
         },
         {
             name: "setembro 2025",
+            image: "quarta.JPG",
             paragraphs: [
                 "04/09",
                 "Aqui as coisas já estavam quentes, eu acho, mas foi nesse dia em que falei abertamente que queria te pegar (Ok eu estava bêbada na tia da pinga, mas só pensava em você o tempo todo, ninguém aguentava mais eu falando de você ) Todo mundo já sabia, incluindo você, mas tudo bem, pois eu sabia que o sr. também já queria.",
@@ -44,6 +48,7 @@
         },
         {
             name: "outubro 2025",
+            image: "quinta.JPG",
             paragraphs: [
                 "12/10",
                 "Primeira vez que você veio em casa. Combinamos de fazer bolo (formigueiro), e eu não sabia que minha família ia estar lá, então conheceu meus avós e minha tia de tabela. Infelizmente alguém criticou muito o bolo que ficou bonito sim, e muito bom (minha vó gostou), e a gente tirou aquela foto maravilhosa de você sendo lobo.",
@@ -56,6 +61,7 @@
         },
         {
             name: "novembro 2025",
+            image: "sexta.JPG",
             paragraphs: [
                 "08/11",
                 "Primeira vez que fui pra SBC te ver. Foi assustador, fui pelo pior caminho possível, com pouca bateria, e tive que invadir sua casa de tabela. Conheci sua vó e sua irmã pelo menos. Mas foi bom o dia, fomos no parque e eu trouxe uma toalhinha de piquenique, amo os momentos de parque e natureza com você (Mesmo que em SBC), e a noite jantamos com seus amigos, foi um dia bem especial para mim. Amo todos os dias com você meu amor.",
@@ -66,6 +72,7 @@
         },
         {
             name: "dezembro 2025",
+            image: "setima.JPG",
             paragraphs: [
                 "09/12",
                 "Não sei nem como começar a descrever esse dia. A gente já havia falado sobre oficializar nossa relação (Você queria uma data performática), mas eu já imginava que a ansiedade ia falar mais alto. Foi nesse dia que nos encontramos na UFABC, fomos pegar um copão (Na chuva, como sempre), alguém trouxe banana desitrada (Sabendo que eu amo banana) e sentamos juntos naquela escada meio horrível, e você puxou a caixinha vermelha (Sem olhar pra mim) e fez o pedido. Fui a mulher mais feliz do mundo naquele dia.",
@@ -77,97 +84,93 @@
             ]
         },
         {
-            name: "janeiro 2026",
+            name: "E assim,",
+            image: "oitava.JPG",
             paragraphs: [
-                "Janeiro escaldante. A correnteza trouxe águas mornas demais, sinto que preciso ir mais fundo. Lá embaixo encontro paz e escuridão. Um peixe-lanterna iluminou estas linhas enquanto eu as arranhava num osso de baleia (papel é difícil de achar por aqui).",
-                "Cruzei com um mergulhador hoje – olhamos um para o outro por um longo minuto. A bolha que ele soltou subiu e estourou como um pensamento. Será que ele entendeu que eu só queria dizer 'olá, tudo bem?'.",
-                "Ano novo, vida nova? Talvez. Mas continuo o mesmo tubarão de sempre: cicatrizes, dentes novos e um arquivo de cartas espalhadas pelo oceano. Janeiro me lembra que ainda faltam muitos meses."
+                "2025 - 2026",
+                "2025 passou, e a nossa história continua em 2026. Janeiro e fevereiro passaram rápido ao seu lado, conhecemos lugares novos, como aquele lugar de ramen escondido na paulista, ou até o restaurante no bom retiro, em que eu te apresentei meu prato favorito, ou o dia do bar de samba que dançamos juntos.",
+                "Conheci sua família no aniversário da sua avó, você trouxe muitos doces pra mim (para de me engordar), você conheceu o resto da minha família por parte de pai, passei uma tarde na sua casa vendo filme. E guardo todas essas lembranças com carinho.",
+                "Você esteve comigo em vários momentos meus, e não tem palavras, atos ou presentes que compense isso. Sou eternamente grata pela sua companhia ao meu lado durante todos esses meses. E com isso, eu finalizo minha tentativa de colocar em palavras meus sentimentos por você, mesmo que seja quase impossível.",
+                "Eu te amo Pedro."
             ]
         },
-        {
-            name: "fevereiro 2026",
-            paragraphs: [
-                "Fevereiro, último mês desta carta mensal. O mar está mais frio de repente, ou talvez seja a sensação de despedida. Nadei até o recife onde tudo começou em julho. As esponjas-do-mar cresceram, ouriços ocuparam espaços.",
-                "Um grupo de tubarões-lixa jovens me perguntou sobre o mundo além. Contei sobre as cartas, sobre as palavras que escrevi mês a mês. Eles prometeram continuar a tradição – rabiscar histórias em cascos de tartaruga, em madeira à deriva.",
-                "Guardo comigo todas as correntes que cruzei. De julho a fevereiro, o oceano girou e eu continuei. Agora, enquanto a maré puxa para longe, deixo este último registro: tubarões também escrevem cartas. E elas boiam, pesadas de verdade, à espera."
-            ]
-        }
+        
     ];
 
-       // ---------- state ----------
-    let currentIndex = 0; // começa no primeiro mês
 
-    // Elementos DOM
     const monthTitleEl = document.getElementById('monthTitle');
     const letterContentEl = document.getElementById('letterContent');
     const prevBtn = document.getElementById('prevBtn');
     const nextBtn = document.getElementById('nextBtn');
     const pageIndicator = document.getElementById('pageIndicator');
+    const monthImage = document.getElementById('monthImage'); // PEGA A IMAGEM
 
-    // Verifica se os elementos existem (segurança)
-    if (!monthTitleEl || !letterContentEl || !prevBtn || !nextBtn || !pageIndicator) {
-        console.error('Elementos não encontrados! Verifique os IDs no HTML.');
+    // Verificação de segurança
+    if (!monthTitleEl || !letterContentEl || !prevBtn || !nextBtn || !pageIndicator || !monthImage) {
+        console.error('❌ Elementos não encontrados! Verifique os IDs no HTML.');
         return;
     }
 
-    // ---------- função principal para renderizar mês ----------
-    function renderMonth(index) {
-        // Verifica se o índice é válido
-        if (index < 0 || index >= months.length) {
-            console.error('Índice inválido:', index);
-            return;
-        }
+    // ---------- VARIÁVEIS ----------
+    let currentIndex = 0;
+    const totalMonths = months.length;
 
-        const monthData = months[index];
+    // ---------- FUNÇÃO PRINCIPAL ----------
+    function updatePage(index) {
+        console.log("📝 Atualizando para:", months[index].name);
         
-        // Atualiza título
-        monthTitleEl.textContent = monthData.name;
-
-        // Constrói os parágrafos
-        let htmlStr = '';
-        monthData.paragraphs.forEach(p => {
-            htmlStr += `<p>${p}</p>`;
+        // 1. Título
+        monthTitleEl.textContent = months[index].name;
+        
+        // 2. Texto
+        let htmlText = '';
+        months[index].paragraphs.forEach(p => {
+            htmlText += `<p>${p}</p>`;
         });
-        letterContentEl.innerHTML = htmlStr;
-
-        // Atualiza indicador de página (agora dinâmico!)
-        pageIndicator.textContent = `${index + 1} / ${months.length}`;
-
-        // Habilita/desabilita botões conforme posição
+        letterContentEl.innerHTML = htmlText;
+        
+        if (months[index].image) {
+    monthImage.src = months[index].image;
+    monthImage.alt = `Imagem de ${months[index].name}`;
+    monthImage.style.display = 'block';
+    monthImage.parentElement.style.display = 'block'; // mostra o container
+} else {
+    monthImage.style.display = 'none';
+    monthImage.parentElement.style.display = 'none'; // esconde o container também
+}
+        // 4. Indicador
+        pageIndicator.textContent = (index + 1) + " / " + totalMonths;
+        
+        // 5. Botões
         prevBtn.disabled = (index === 0);
-        nextBtn.disabled = (index === months.length - 1);
-
-        // 🔥 Rola suavemente para o topo
-        try {
-            window.scrollTo({
-                top: 0,
-                behavior: 'smooth'
-            });
-        } catch (e) {
-            // Fallback para navegadores antigos
-            window.scrollTo(0, 0);
-        }
+        nextBtn.disabled = (index === totalMonths - 1);
+        
+        // 6. Rolar para o topo
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
     }
 
-    // ---------- event listeners ----------
+    // ---------- EVENTOS ----------
     prevBtn.addEventListener('click', () => {
         if (currentIndex > 0) {
             currentIndex--;
-            renderMonth(currentIndex);
+            updatePage(currentIndex);
         }
     });
 
     nextBtn.addEventListener('click', () => {
-        if (currentIndex < months.length - 1) {
+        if (currentIndex < totalMonths - 1) {
             currentIndex++;
-            renderMonth(currentIndex);
+            updatePage(currentIndex);
         }
     });
 
-    // ---------- inicializa com o primeiro mês ----------
-    renderMonth(0);
+    // ---------- INICIALIZA ----------
+    updatePage(0);
 
-    // ---------- (opcional) suporte a teclas do teclado ----------
+    // ---------- TECLAS ----------
     document.addEventListener('keydown', (e) => {
         if (e.key === 'ArrowLeft' && !prevBtn.disabled) {
             prevBtn.click();
@@ -176,5 +179,4 @@
         }
     });
 
-})();
-    
+})();   

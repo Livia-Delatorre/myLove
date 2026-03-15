@@ -254,3 +254,37 @@ body::before {
         font-size: 1.5rem;
     }
 }
+
+.month-image-container {
+    width: 100%;
+    max-width: 500px; /* Limita tamanho máximo */
+    margin: 2rem auto 1rem auto; /* Espaço acima e abaixo, centralizado */
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0, 20, 30, 0.3);
+    border: 2px solid #6a9ab0;
+    transition: all 0.3s ease;
+}
+
+.month-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;  /* ← era cover, que corta */
+    display: block;
+    transition: transform 0.5s ease;
+}
+
+/* Efeito hover suave */
+.month-image-container:hover .month-image {
+    transform: scale(1.03);
+}
+
+/* Para telas menores */
+@media (max-width: 500px) {
+    .month-image-container {
+        margin: 1.5rem auto 0.5rem auto;
+    }
+    .month-image {
+        max-height: 200px;
+    }
+}
